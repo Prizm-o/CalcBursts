@@ -1,0 +1,14 @@
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\CalcBursts.exe
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\CalcBursts.deps.json
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\CalcBursts.runtimeconfig.json
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\CalcBursts.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\CalcBursts.pdb
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.AssemblyInfo.cs
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\refint\CalcBursts.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.pdb
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.genruntimeconfig.cache
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\ref\CalcBursts.dll

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcBursts", "CalcBursts.csproj", "{82F69B4B-E384-322D-A92D-F45631A95CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F69B4B-E384-322D-A92D-F45631A95CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F69B4B-E384-322D-A92D-F45631A95CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F69B4B-E384-322D-A92D-F45631A95CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F69B4B-E384-322D-A92D-F45631A95CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302B2432-734C-477C-A37D-F8FEA9FDB2C8}
+	EndGlobalSection
+EndGlobal
