@@ -12,3 +12,12 @@ c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\ob
 c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.pdb
 c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.genruntimeconfig.cache
 c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\ref\CalcBursts.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.sourcelink.json
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.csproj.AssemblyReference.cache
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\CsvHelper.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\OxyPlot.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\OxyPlot.ImageSharp.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\SixLabors.Fonts.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\bin\Debug\net9.0\SixLabors.ImageSharp.Drawing.dll
+c:\Users\Admin\Desktop\Тестовые МКС\Дима\CalcBursts\CalcBursts\obj\Debug\net9.0\CalcBursts.csproj.Up2Date

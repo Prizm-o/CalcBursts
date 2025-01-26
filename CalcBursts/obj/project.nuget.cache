@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Ny46Ae0sWjk=",
+  "dgSpecHash": "vNY0/XU3w7g=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Admin\\Desktop\\Тестовые МКС\\Дима\\CalcBursts\\CalcBursts\\CalcBursts.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Тестовые МКС\\Дима\\CalcBursts\\CalcBursts\\CalcBursts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\oxyplot.imagesharp\\2.2.0\\oxyplot.imagesharp.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sixlabors.imagesharp\\2.1.9\\sixlabors.imagesharp.2.1.9.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0\\sixlabors.imagesharp.drawing.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
